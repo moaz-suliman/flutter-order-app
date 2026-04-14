@@ -14,7 +14,9 @@ Features
  
  State Management using Provider
 
-ٍٍSplash Screen
+ ===============================================================
+
+ٍSplash Screen
 
  <img width="279" height="613" alt="image" src="https://github.com/user-attachments/assets/5adc760f-571f-408c-afe0-ac4b60f5647b" />
 
