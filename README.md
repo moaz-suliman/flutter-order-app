@@ -1,22 +1,12 @@
 <<<<<<< HEAD
-# final_project
+# Ordering App (Flutter)
 
-A new Flutter project.
+## A modern Ordering Application built with Flutter, featuring clean architecture and robust offline support.
+Features
+ Browse and place ordersة
+ Firebase Integration (Authentication, Firestore, etc.)
+ Offline Support using SQLite (app works without internet)
+ Automatic data sync when connection is restored
+ Structured using MVC Design Pattern
+ State Management using Provider
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# flutter-order-app
-Flutter app for managing orders with MVC
->>>>>>> a685ae7fea6bd62b6aa524560dd7ab23bd596255
