@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # final_project
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter-order-app
+Flutter app for managing orders with MVC
+>>>>>>> a685ae7fea6bd62b6aa524560dd7ab23bd596255
